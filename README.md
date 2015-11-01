@@ -8,5 +8,6 @@ This is a very simple example of a Linear Regression method. By adding additiona
 features, it can fit non-linear curves, such as the x^2 curve.
 
 Still needs some improvements:
+ - Regularization should be added
  - The Learning rate should be dynamic
  - The algorithm to add new features should be improved
